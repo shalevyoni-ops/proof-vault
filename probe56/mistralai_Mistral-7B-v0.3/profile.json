@@ -2,7 +2,7 @@
   "status": "completed",
   "phase": "phase6_complete",
   "model": "mistralai/Mistral-7B-v0.3",
-  "questions": "/workspace/GI-Engine/probe56-release/questions_100_v4.json",
+  "questions": "/workspace/GI-Engine/probe56-release/phase1_diagnosis_2k.json",
   "mode": "full",
   "dimensions_requested": [
     "D1",
@@ -12,8 +12,8 @@
     "D5"
   ],
   "reports_dir": "/root/docs/probe56/reports",
-  "updated_at": "2026-07-26T07:43:40Z",
-  "created_at": "2026-07-26T07:43:15Z",
+  "updated_at": "2026-07-26T10:04:42Z",
+  "created_at": "2026-07-26T10:04:17Z",
   "ckpt_dir": "/workspace/GI-Engine/docs/probe56/results/mistralai_Mistral-7B-v0.3-e2e-ckpt",
   "fix_sets": [],
   "dimensions_completed": [],
@@ -97,7 +97,7 @@
   "residual_note": "no residual collateral",
   "flipped": 0,
   "fixable": 0,
-  "runtime_s": 57.3,
+  "runtime_s": 65.6,
   "reports": [
     "/root/docs/probe56/reports/Probe56-1-BASELINE-SCAN.pdf",
     "/root/docs/probe56/reports/Probe56-2-D1-REPAIR.pdf",
